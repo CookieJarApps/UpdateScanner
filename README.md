@@ -7,6 +7,6 @@ Supported app stores:
 
 Coming soon app stores:
 - Google Play
-- F-droid
+- F-Droid
 - ApkMirror
 - GitLab
