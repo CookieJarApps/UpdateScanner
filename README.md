@@ -10,3 +10,7 @@ Coming soon app stores:
 - F-Droid
 - ApkMirror
 - GitLab
+
+## Screenshots
+
+<img src="https://storeimg.com/uploads/6014157e75a5e.png" />
