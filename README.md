@@ -1,4 +1,4 @@
-# AutoUpdate
+# UpdateScanner
 
 Automatically detects where you installed your apps from, and shows what updates are available, all in one place.
 
